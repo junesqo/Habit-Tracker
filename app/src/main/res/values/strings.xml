@@ -5,4 +5,12 @@
     <string name="delete_everything">Delete everything</string>
     <string name="delete_note">Delete note</string>
     <string name="title_big">Title Big</string>
+    <string name="add_a_habit">Add a habit!</string>
+    <string name="pick_a_date">Pick a date</string>
+    <string name="give_it_a_short_description">Give it a short description</string>
+    <string name="habit_title">Habit title</string>
+    <string name="date_not_selected">Date: (not selected)</string>
+    <string name="pick_a_time">Pick a time</string>
+    <string name="time_not_selected">Time: (not selected)</string>
+    <string name="confirm">Confirm</string>
 </resources>
